@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="action_settings">Clear All</string>
+    <string name="title_activity_information">You have to...</string>
+</resources>
